@@ -1,9 +1,9 @@
 void main()
 {
-  var NilaiAwal = 20;
-  var NilaiAkhir = 30;
+  var nilaiAwal = 20;
+  var nilaiAkhir = 30;
 
-  var Hasil = NilaiAwal + NilaiAkhir;
+  var hasil = nilaiAwal + nilaiAkhir;
 
-  print(Hasil);
+  print(hasil);
 }

@@ -9,6 +9,7 @@ environment:
 # Add regular dependencies here.
 dependencies:
   # path: ^1.8.0
+  http: ^0.13.3  # Tambahkan baris ini
 
 dev_dependencies:
   lints: ^3.0.0
